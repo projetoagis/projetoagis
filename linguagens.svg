@@ -7,6 +7,6 @@
 <rect x="0.5" y="0.5" width="339" height="113" rx="6" fill="#ffffff" stroke="#d0d7de"/>
 <text x="20" y="30" class="h">Linguagens mais usadas</text>
 <clipPath id="c"><rect x="20" y="44" width="300" height="8" rx="4"/></clipPath>
-<g clip-path="url(#c)"><rect x="20.00" y="44" width="220.39" height="8" fill="#f1e05a"/><rect x="240.39" y="44" width="56.96" height="8" fill="#563d7c"/><rect x="297.35" y="44" width="22.65" height="8" fill="#e34c26"/></g>
-<circle cx="25" cy="70" r="5" fill="#f1e05a"/><text x="36" y="74" class="t">JavaScript <tspan class="p">73,5%</tspan></text><circle cx="175" cy="70" r="5" fill="#563d7c"/><text x="186" y="74" class="t">CSS <tspan class="p">19,0%</tspan></text><circle cx="25" cy="92" r="5" fill="#e34c26"/><text x="36" y="96" class="t">HTML <tspan class="p">7,6%</tspan></text>
+<g clip-path="url(#c)"><rect x="20.00" y="44" width="221.93" height="8" fill="#f1e05a"/><rect x="241.93" y="44" width="56.36" height="8" fill="#563d7c"/><rect x="298.29" y="44" width="21.71" height="8" fill="#e34c26"/></g>
+<circle cx="25" cy="70" r="5" fill="#f1e05a"/><text x="36" y="74" class="t">JavaScript <tspan class="p">74,0%</tspan></text><circle cx="175" cy="70" r="5" fill="#563d7c"/><text x="186" y="74" class="t">CSS <tspan class="p">18,8%</tspan></text><circle cx="25" cy="92" r="5" fill="#e34c26"/><text x="36" y="96" class="t">HTML <tspan class="p">7,2%</tspan></text>
 </svg>
